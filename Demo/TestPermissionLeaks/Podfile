@@ -1,0 +1,11 @@
+
+
+use_frameworks!
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'TestPermissionLeaks' do
+
+    pod 'Permission', :git => 'https://github.com/delba/Permission.git', :branch => 'swift-3.0'
+
+    
+end

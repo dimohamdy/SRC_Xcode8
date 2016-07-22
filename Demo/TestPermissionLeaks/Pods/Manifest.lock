@@ -1,0 +1,22 @@
+PODS:
+  - Permission (1.5)
+
+DEPENDENCIES:
+  - Permission (from `https://github.com/delba/Permission.git`, branch `swift-3.0`)
+
+EXTERNAL SOURCES:
+  Permission:
+    :branch: swift-3.0
+    :git: https://github.com/delba/Permission.git
+
+CHECKOUT OPTIONS:
+  Permission:
+    :commit: 1ef678af334e71c982b476ba344b1a9194c49f8e
+    :git: https://github.com/delba/Permission.git
+
+SPEC CHECKSUMS:
+  Permission: 2d9647f8b994a5faf7e1c5a40d4328fde158c2f2
+
+PODFILE CHECKSUM: 65206443b7fb0296fa29db09d3e69b00a1c93d63
+
+COCOAPODS: 1.0.0
